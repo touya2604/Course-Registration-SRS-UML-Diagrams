@@ -60,12 +60,6 @@ The system is designed for three user roles:
 2. Explore the `UML_Diagrams` folder for system models.
 3. Use the diagrams for implementation or further development.
 
-## 🤝 Contributors
-
-- **Vũ Anh Quân** - Activity & Sequence Diagrams, Final Report
-- **Cung Việt Anh** - UI Design, Theoretical Research
-- **Cung Hồng Phúc** - UI Design, Theoretical Research
-- **Nguyễn Tuấn Anh** - Use Case, Class Diagram, ERD
 
 ## 📜 License
 
